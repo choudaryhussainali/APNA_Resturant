@@ -20,7 +20,8 @@ A simple and professional **Point of Sale (POS) system** for restaurants, built 
 
 ## 📸 Screenshots
 
-(Add screenshots here after running your app)
+<img width="1366" height="1942" alt="APNA-Resturant" src="https://github.com/user-attachments/assets/375edbd9-8248-4d5e-ba89-bdb1f5816fdb" />
+
 
 ---
 

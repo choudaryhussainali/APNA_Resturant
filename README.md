@@ -99,5 +99,3 @@ For questions or collaboration requests:
 ✨ Built using [Streamlit](https://streamlit.io/) for a modern and interactive POS experience.
 
 ---
-
-Do you want me to also add a **"Demo Section"** in the README with a **live deployed app link** (like Streamlit Cloud) + **demo video/GIF** for better presentation?
